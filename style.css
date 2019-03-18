@@ -19,8 +19,8 @@ h1, h2 {
     }
 
 h1:hover {
-color:pink
-transition: 2sc ease;
+color:pink;
+transition: 2s ease;
   }
 h2 {
   font-size: 5em;
